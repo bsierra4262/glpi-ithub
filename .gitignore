@@ -1,0 +1,4 @@
+# Configuración real (con el secreto): vive sólo en el servidor y en glpi-ithub-claves.
+config/ithub.php
+*.antes-ithub-*
+ithub-secreto-*.txt
